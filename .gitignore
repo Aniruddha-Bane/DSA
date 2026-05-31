@@ -29,5 +29,14 @@ bin/
 ### VS Code ###
 .vscode/
 
+##Java ##
+*.class
+*.jar
+*.war
+*.ear
+*.iml
+*.log
+*.tmp
+
 ### Mac OS ###
 .DS_Store
